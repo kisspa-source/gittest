@@ -6,6 +6,7 @@ Popo = function (name) {
 
 Popo('haha');
 
-const nan;
+const nan = 1099;
 
-nan;
+
+console.log(nan);
