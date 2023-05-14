@@ -12,3 +12,5 @@ person.add = function (id = '1', name='jh.park', age=20) {
 console.log(person);
 
 console.log('test');
+
+console.log('드디어 원격에....')
