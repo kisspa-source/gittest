@@ -5,3 +5,7 @@ Popo = function (name) {
 };
 
 Popo('haha');
+
+const nan;
+
+nan;
